@@ -1,0 +1,16 @@
+# New Year's Benefits | Fan Exclusive Offers | Column 1.7 | Power System Flow and Optimal Power Flow
+
+Column 1.7 Computational Methods for Power System Flow and Optimal Power Flow (Matlab Code) - Backward-forward method for three-phase unbalanced distribution network flow calculation with distributed power sources (IEEE33 nodes) (Matlab Code) - Optimal Power Flow (OPF) coursework (Matlab Code) - Analysis of interconnected characteristics in AC and DC systems (Matlab Code) - Research on optimal power flow problems using genetic algorithms (Matlab Implementation) - Reproduced from a journal paper - Computational methods for power system flow (Newton-Raphson method, Gauss-Seidel method, fast decoupling method) (Matlab Code) - Distributed dynamic optimal power flow with robust optimization methods (Matlab Code) - Optimal Power Flow based on semidefinite programming (SDP) model (Matlab Code) - Study on active distribution network optimal power flow solving with second-order cone programming (Matlab Code) - Application of second-order cone relaxation in distribution network optimal power flow calculations (Matlab Code) - Monte Carlo stochastic power flow study (Matlab Code) - Coursework/Graduate Design - Power system flow computation (Matlab Code) - Optimal Power Flow based on artificial fish swarm algorithm (Matlab Code) - Optimal Power Flow based on distributed alternating directional multipliers (ADMM) method to solve DC dynamic optimal power flow with carbon emission trading (Matlab Code) - Study on mixed AC/DC systems flow calculation (Matlab Code) - Particle swarm optimization-based economic dispatch of power systems (Matlab Code) - Electric thermal energy flow calculation research considering multi-energy coupling in regional comprehensive energy systems (Matlab Code) - Optimal Power Flow based on particle swarm optimization (IEEE30 nodes (Matlab Code)) - Power system flow computation (Newton-Raphson method, Gauss-Seidel method, fast decoupling method) [6 nodes, 9 nodes, 14 nodes, 26 nodes, 30 nodes, 57 nodes] - Natural Gas Network Flow Calculation Model Study (Matlab Code) - Power system flow simulation (Matlab and PowerWord) interior point method for optimal power flow (Matlab Implementation) - Continuous power system flow calculation research based on back-forward method (IEEE33 nodes) (Matlab Code) - Decentralized power system flow calculation for electric networks using Python & Matlab (Matlab Code) - Comparative study of power flow calculation based on genetic algorithms and particle swarm algorithms (Matlab Code) - Computation of delayed power flow (CPF) in power systems (IEEE-14 nodes) (Matlab Code) - Multi-element N-k fault model study for power systems based on AC flow (Matlab Code) - Study on power system faults based on Newton method in DC microgrid flow (Matlab Code) - Optimal Power Flow (OPF) for high voltage direct current (HVDC) (Matlab Code) - Improved genetic algorithm to minimize optimal power loss (Matlab Code)
+
+## Images
+
+[New Year's Benefits | Fan Exclusive Discounts | Column 1.7 | Power System Flow and Optimal Power Flow](cover.jpg)
+
+<!-- PAYMENT_BLOCK -->
+
+## Get this dataset
+
+- Payment link (Stripe): [Buy now](https://buy.stripe.com/3cs8yP7sY87d0vu9AB)
+- Payment QR code: ![Payment QR code](pay.png)
+
+<!-- /PAYMENT_BLOCK -->
